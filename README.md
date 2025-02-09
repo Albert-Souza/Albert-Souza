@@ -11,7 +11,7 @@
 </a>
 
 <div align="center">
-    👉🏻 <a href="albert-souza.com">Veja aqui minha página pessoal! </a> 👈🏻
+    👉🏻 <a href="https://www.albert-souza.com" target="_blank">Veja aqui minha página pessoal! </a> 👈🏻
 </div>
 
  ### 🖥️ Projetos
