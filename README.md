@@ -38,6 +38,15 @@
             <img src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask" alt="Flask">
           </td>
         </tr>
+        <tr>
+          <td><a href="https://github.com/Albert-Souza/Marketing-AB">Marketing-AB</a></td>
+          <td>Testes A/B de uma campanha de marketing</td>
+          <td>
+            <img src="https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy" alt="NumPy">
+            <img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas" alt="Pandas">
+            <img src="https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy" alt="SciPy">
+          </td>
+        </tr>
       </table>
     </td>
   </tr>
