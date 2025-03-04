@@ -28,7 +28,6 @@
           <th>Descrição</th>
           <th>Tecnologias</th>
         </tr>
-        <tr>
           <td><a href="https://github.com/Albert-Souza/Car-Price">Car-Price</a></td>
           <td>Análise, inferência e previsão de preços de carros usados nos EUA</td>
           <td>
@@ -45,6 +44,15 @@
             <img src="https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy" alt="NumPy">
             <img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas" alt="Pandas">
             <img src="https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy" alt="SciPy">
+          </td>
+        </tr>
+        <tr>
+        <tr>
+          <td><a href="https://github.com/Albert-Souza/Bayesian-Inference-Marketing">Bayesian-Inference-Marketing</a></td>
+          <td>Teste A/B interativo de campanha de marketing utilizando inferência bayesiana</td>
+          <td>
+            <img src="https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy" alt="NumPy">
+            <img src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask" alt="Flask">
           </td>
         </tr>
       </table>
