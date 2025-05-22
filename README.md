@@ -11,57 +11,7 @@
 </a>
 
 <div align="center">
-    👉🏻 <a href="https://www.albert-souza.com" target="_blank">Veja aqui minha página pessoal! </a> 👈🏻
+    👉🏻 <a href="https://www.albert-souza.com" target="_blank">Veja aqui meus projetos! </a> 👈🏻
 </div>
 
- ### 🖥️ Projetos
-
-<table>
-  <tr>
-    <th>Projetos</th>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <th>Título</th>
-          <th>Descrição</th>
-          <th>Tecnologias</th>
-        </tr>
-          <td><a href="https://github.com/Albert-Souza/Car-Price">Car-Price</a></td>
-          <td>Análise, inferência e previsão de preços de carros usados nos EUA</td>
-          <td>
-            <img src="https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy" alt="NumPy">
-            <img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas" alt="Pandas">
-            <img src="https://img.shields.io/badge/Scikit--Learn-black?style=flat-square&logo=scikit-learn" alt="Scikit-Learn">
-            <img src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask" alt="Flask">
-          </td>
-        </tr>
-        <tr>
-          <td><a href="https://github.com/Albert-Souza/Marketing-AB">Marketing-AB</a></td>
-          <td>Testes A/B de uma campanha de marketing</td>
-          <td>
-            <img src="https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy" alt="NumPy">
-            <img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas" alt="Pandas">
-            <img src="https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy" alt="SciPy">
-          </td>
-        </tr>
-        <tr>
-        <tr>
-          <td><a href="https://github.com/Albert-Souza/Bayesian-Inference-Marketing">Bayesian-Inference-Marketing</a></td>
-          <td>Teste A/B interativo de campanha de marketing utilizando inferência bayesiana</td>
-          <td>
-            <img src="https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy" alt="NumPy">
-            <img src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask" alt="Flask">
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
 <br>
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Albert-Souza&theme=dracula) 
-
