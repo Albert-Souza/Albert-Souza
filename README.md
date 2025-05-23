@@ -11,7 +11,7 @@
 </a>
 
 <div align="center">
-    👉🏻 <a href="https://www.albert-souza.com" target="_blank">Veja aqui meus projetos! </a> 👈🏻
+    👉🏻 <a href="https://www.albert-souza.com" target="_blank">See my projects! </a> 👈🏻
 </div>
 
 <br>
